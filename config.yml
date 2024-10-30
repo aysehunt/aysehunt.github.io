@@ -1,0 +1,109 @@
+baseURL: "https://aysehunt.github.io" 
+title: Ayse Hunt
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Research
+          url: research/
+          weight: 1
+        - name: CV
+          url: cv.pdf
+          weight: 2
+        # - name: About
+        #   url: about/
+        #   weight: 3
+
+
+params:
+    description: "I am a PhD candidate at Northwestern's Computer Science and Learning Sciences program."
+    author: Ayse Hunt
+    # googleAnalyticsID: "G-XXXXX"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["research","cv","about"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Ayse Hunt
+          subtitle: "Hi there! I'm a PhD candidate in Computer Science and Learning Sciences at Northwestern University. I’m a mixed-methods researcher working at the intersection of Human-Computer Interaction and Education.<br><br>
+          
+          Currently, I'm researching how people learn how to debug code. In the past, I've explored, evaluated, and designed interactive technology in museums."
+          
+          imageUrl: "profile-pic.jpeg"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: Research
+              url: research/
+            - name: CV
+              url: cv.pdf
+            # - name: About
+            #   url: about/
+           
+
+    # socialIcons:
+    #     - name: CV
+    #       url: cv.pdf
+    #     - name: Email
+    #       url: mailto:moritz.maria.von.igelfeld@gmail.com
+    #     - name: Zoom
+    #       url: https://www.zoom.us/my/igelfeld
+    #     - name: Location
+    #       url: location/
+    #     - name: Office Hours
+    #       url: officehours/
+    #     - name: Google Scholar
+    #       url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+    #     - name: GitHub
+    #       url: https://github.com/pmichaillat
+    #     - name: Substack
+    #       url: https://pmichaillat.substack.com
+    #     - name: YouTube
+    #       url: https://www.youtube.com/@alexandermccallsmithoffici9000
+    #     - name: Twitter
+    #       url: https://twitter.com/McCallSmith
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Ayse Hunt"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2

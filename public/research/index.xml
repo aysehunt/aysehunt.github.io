@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Research on Ayse Hunt</title>
+    <link>http://localhost:1313/research/</link>
+    <description>Recent content in Research on Ayse Hunt</description>
+    <generator>Hugo -- 0.136.5</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 08 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/research/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Designing learning environments for CS1 debugging</title>
+      <link>http://localhost:1313/research/debugging/</link>
+      <pubDate>Tue, 29 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/debugging/</guid>
+      <description>This project explores the challenges university students face while learning to debug code. The goal of this work is to design digital tools that support students during the programming process.</description>
+    </item>
+    <item>
+      <title>Uncovering pain points and opportunities for a sales team dashboard</title>
+      <link>http://localhost:1313/research/uxr/</link>
+      <pubDate>Tue, 20 Aug 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/uxr/</guid>
+      <description>This project was part of my UX Research internship at Pampered Chef. In this project, I synthesized qualitative and quantitative data to inform the design of a new dashboard to help leaders manage their team&amp;rsquo;s sales.</description>
+    </item>
+    <item>
+      <title>Analyzing how interface design shapes children&#39;s collaborative play</title>
+      <link>http://localhost:1313/research/osmo/</link>
+      <pubDate>Sun, 10 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/osmo/</guid>
+      <description>In this project, the research team and I explored how interface modality impacts the way children interact with one another during play. We compared two interface designs: a touchscreen interface and a tangible interface controlled by physical blocks.</description>
+    </item>
+    <item>
+      <title>Co-designing an interactive exhibit with middle schoolers</title>
+      <link>http://localhost:1313/research/adler/</link>
+      <pubDate>Mon, 01 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/adler/</guid>
+      <description>In this project, I worked alongside community partners and youth to re-design an interactive tabletop exhibit at the Adler Planetarium. The goal of this work was to empower middle school students to design an exhibit that resonated with them.</description>
+    </item>
+    <item>
+      <title>Evaluating visitor experiences in a computing museum exhibit</title>
+      <link>http://localhost:1313/research/lcml/</link>
+      <pubDate>Thu, 10 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/lcml/</guid>
+      <description>This project was part of my curatorial internship at Living Computers: Museum + Labs. I conducted a visitor survey as well as interviews with museum staff to better understand exhibit engagement patterns.</description>
+    </item>
+    <item>
+      <title>Designing an interactive museum label</title>
+      <link>http://localhost:1313/research/mog/</link>
+      <pubDate>Mon, 20 May 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/research/mog/</guid>
+      <description>This project was part of my undergraduate thesis in Computer Science and Art History. I worked with a team of my peers to design and develop an interactive museum label.</description>
+    </item>
+  </channel>
+</rss>
